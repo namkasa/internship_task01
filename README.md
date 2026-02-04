@@ -25,7 +25,7 @@ Research on Sensors
 |-----------------------------|------------|----------------------------------------|---------------------------------------------------------|
 | active piezo buzzer         | KY-012     | Sensitive to light intensity           | alarm systems and warning systems                       |
 | Touch Sensor                | KY-036     | transistor to detect changes           | Weather monitoring systems                              |
-| light barrier Sensor        | KY-010     | Measures heartbeat                     | detection of opening and closing of openings like doors |
+| light barrier Sensor        | KY-010     | emits a signal when light is interrupted| detection of opening and closing of openings like doors |
 | LED SMD Module              | KY-009     | the LEDs share common cathode          |decorative lighting                                      |
 | color 3mm LED               | KY-029     | LEDs share common cathode              | control systems and displays                            |
 | the 7 color Led flash module| -          | built in ASIC                          | decorative projects                                     |
